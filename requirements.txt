@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+datasets
+IPython
+tqdm
+scikit-learn
+matplotlib
+seaborn
+xgboost
